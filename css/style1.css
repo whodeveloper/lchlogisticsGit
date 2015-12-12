@@ -1,0 +1,33 @@
+html{
+	background-color: #ff4c4c;
+	#ff4c4c
+	#ffe5e5
+}
+
+body{
+	margin-top: 50px;
+	margin-left:100px;
+	margin-right: 100px;
+}
+
+.navbar{
+	text-align: center;
+	background-color: #ff4c4c; /*For the background color*/
+	color: #ffffff; /*For the text color*/
+	padding-top: 25px;
+	padding-bottom: 25px;
+}
+
+ul li{
+	display: inline;
+	padding-left: 20px;
+}
+
+ul li a{
+	text-decoration: none;
+	color: #ffffff;
+}
+
+.footer{
+	background-color: #ffffff;
+}
